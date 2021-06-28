@@ -1,0 +1,4 @@
+hello i m learning python
+this is file file handling chapter
+we are inserting, deleting and
+copying from a text file
